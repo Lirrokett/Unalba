@@ -10,7 +10,7 @@ import vista.VentanaLoggin;
 
 public class Main {
 	private static Dao dao = new DaoImplementacion();
-
+//prueba
 	public static void main(String[] args) {
 		VentanaLoggin ventanaLoggin = new VentanaLoggin();
 		
